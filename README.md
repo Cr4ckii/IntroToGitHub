@@ -2,5 +2,5 @@
 A demo for myself.
 
 ## Roadmap
-* Updated Readme infromation
+* Updated Readme information
 * Update Counter Page
